@@ -20,5 +20,5 @@ A simple Blog REST API built with FastAPI and SQLAlchemy.
 ## Run
 
 ```bash
-uvicorn src.main:app --reload
+uvicorn src.main:app --reload --port 3000
 ```
